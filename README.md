@@ -1,4 +1,4 @@
-# 🧧 剪纸春联 · Paper Cut Couplets
+# 🧧 剪纸&春联 · Paper Cut&Couplets
 
 - [🚀 Live Demo Used (在线体验)](https://FlameAIStudio.github.io/PaperCut-Couplets/)
 
@@ -8,7 +8,7 @@
 
 ## ✨ 这是什么？
 
-**Paper Cut Couplets** is a digital experience dedicated to the traditional Chinese New Year customs of paper cutting and couplet writing.
+**Paper Cut&Couplets** is a digital experience dedicated to the traditional Chinese New Year customs of paper cutting and couplet writing.
 
 It transforms your screen into a red paper workshop where you can digitally cut intricate "window flowers" (窗花) with mathematical symmetry and write blessings with a virtual ink brush.
 
@@ -18,7 +18,7 @@ It's a **digital preservation of heritage** — a way to experience the meditati
 
 ---
 
-**剪纸春联** 是一个致力于中国传统春节习俗（剪纸与写春联）的数字体验项目。
+**剪纸&春联** 是一个致力于中国传统春节习俗（剪纸与写春联）的数字体验项目。
 
 它将你的屏幕变成一个红纸工坊，你可以利用数学对称性剪出精致的“窗花”，或用虚拟毛笔写下新春的祝福。
 
